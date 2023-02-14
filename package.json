@@ -4,6 +4,7 @@
   "description": "vulnerable project for demo-jenkins",
   "license": "ISC",
   "dependencies": {
-    "jquery": "2.2.4"
+    "jquery": "2.2.4",
+    "lodash": "4.17.17"
   }
 }
