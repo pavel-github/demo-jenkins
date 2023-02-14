@@ -1,0 +1,9 @@
+{
+  "name": "demo-jenkins",
+  "version": "1.0.0",
+  "description": "vulnerable project for demo-jenkins",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "2.2.4"
+  }
+}
